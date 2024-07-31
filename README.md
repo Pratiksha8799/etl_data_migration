@@ -46,7 +46,8 @@ Download the JSON key file for the service account and set the GOOGLE_APPLICATIO
 ```
 
 
-## Setup
+## [Setup](https://medium.com/@pratiksha.garkar)
+
 - MySQL Database Setup:
 
     1. Ensure the MySQL database is running and accessible.
@@ -103,8 +104,13 @@ The ETL data migration project from MySQL to BigQuery successfully establishes a
 For support, email pratikshagarkar871999@gmail.com
 
 
+You can check [Medium's article](https://medium.com/@pratiksha.garkar/how-to-set-up-mysql-gcp-account-and-bigquery-api-5920cfe35b0c) on setting up MySQL, BigQuery warehouse, and Task scheduler.
+
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratiksha.garkar)
+
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pratikshagarkar)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@pratiksha.garkar)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-garkar-110a9a171/)
+
+
